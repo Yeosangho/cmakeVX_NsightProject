@@ -6,55 +6,55 @@
 
 #IncludeRegexTransform: 
 
-/home/playground/Desktop/cmakeVX/src/homography_smoother.cpp
+/home/ubuntu/cmakeVX_NsightProject/src/homography_smoother.cpp
 homography_smoother.hpp
-/home/playground/Desktop/cmakeVX/src/homography_smoother.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/homography_smoother.hpp
 
-/home/playground/Desktop/cmakeVX/src/homography_smoother.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/homography_smoother.hpp
 vector
 -
 opencv2/core/core.hpp
-/home/playground/Desktop/cmakeVX/src/opencv2/core/core.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/opencv2/core/core.hpp
 
-/home/playground/Desktop/cmakeVX/src/immediate_mode_stabilizer.cpp
+/home/ubuntu/cmakeVX_NsightProject/src/immediate_mode_stabilizer.cpp
 immediate_mode_stabilizer.hpp
-/home/playground/Desktop/cmakeVX/src/immediate_mode_stabilizer.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/immediate_mode_stabilizer.hpp
 NVX/nvx_opencv_interop.hpp
-/home/playground/Desktop/cmakeVX/src/NVX/nvx_opencv_interop.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVX/nvx_opencv_interop.hpp
 NVX/nvx_timer.hpp
-/home/playground/Desktop/cmakeVX/src/NVX/nvx_timer.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVX/nvx_timer.hpp
 NVXIO/Utility.hpp
-/home/playground/Desktop/cmakeVX/src/NVXIO/Utility.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVXIO/Utility.hpp
 
-/home/playground/Desktop/cmakeVX/src/immediate_mode_stabilizer.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/immediate_mode_stabilizer.hpp
 vector
 -
 queue
 -
 homography_smoother.hpp
-/home/playground/Desktop/cmakeVX/src/homography_smoother.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/homography_smoother.hpp
 NVX/nvx.h
-/home/playground/Desktop/cmakeVX/src/NVX/nvx.h
+/home/ubuntu/cmakeVX_NsightProject/src/NVX/nvx.h
 
-/home/playground/Desktop/cmakeVX/src/main.cpp
+/home/ubuntu/cmakeVX_NsightProject/src/main.cpp
 immediate_mode_stabilizer.hpp
-/home/playground/Desktop/cmakeVX/src/immediate_mode_stabilizer.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/immediate_mode_stabilizer.hpp
 iostream
 -
 unistd.h
 -
 NVX/nvx.h
-/home/playground/Desktop/cmakeVX/src/NVX/nvx.h
+/home/ubuntu/cmakeVX_NsightProject/src/NVX/nvx.h
 NVX/nvx_opencv_interop.hpp
-/home/playground/Desktop/cmakeVX/src/NVX/nvx_opencv_interop.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVX/nvx_opencv_interop.hpp
 NVX/nvx_timer.hpp
-/home/playground/Desktop/cmakeVX/src/NVX/nvx_timer.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVX/nvx_timer.hpp
 NVXIO/Utility.hpp
-/home/playground/Desktop/cmakeVX/src/NVXIO/Utility.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVXIO/Utility.hpp
 NVXIO/Application.hpp
-/home/playground/Desktop/cmakeVX/src/NVXIO/Application.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVXIO/Application.hpp
 NVXIO/FrameSource.hpp
-/home/playground/Desktop/cmakeVX/src/NVXIO/FrameSource.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVXIO/FrameSource.hpp
 NVXIO/Render.hpp
-/home/playground/Desktop/cmakeVX/src/NVXIO/Render.hpp
+/home/ubuntu/cmakeVX_NsightProject/src/NVXIO/Render.hpp
 

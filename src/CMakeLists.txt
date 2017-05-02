@@ -1,7 +1,7 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
 PROJECT(vstab_demo)
 get_filename_component(PARENT_DIR ${CMAKE_SOURCE_DIR} PATH)
-
+set(CUDA_USE_STATIC_CUDA_RUNTIME OFF)
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 set (EXECUTABLE_OUTPUT_PATH "${PARENT_DIR}/vsStabilizer/bin")
 find_package(OpenCV REQUIRED core imgproc video highgui calib3d gpu)

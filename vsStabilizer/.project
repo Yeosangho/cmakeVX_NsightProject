@@ -47,7 +47,7 @@
 				</dictionary>
 				<dictionary>
 					<key>org.eclipse.cdt.make.core.buildLocation</key>
-					<value>/home/playground/Desktop/cmakeVX/vsStabilizer</value>
+					<value>/home/ubuntu/cmakeVX_NsightProject/vsStabilizer</value>
 				</dictionary>
 				<dictionary>
 					<key>org.eclipse.cdt.make.core.useDefaultBuildCmd</key>
@@ -83,7 +83,7 @@
 				</dictionary>
 				<dictionary>
 					<key>org.eclipse.cdt.make.core.build.location</key>
-					<value>/home/playground/Desktop/cmakeVX/vsStabilizer</value>
+					<value>/home/ubuntu/cmakeVX_NsightProject/vsStabilizer</value>
 				</dictionary>
 				<dictionary>
 					<key>org.eclipse.cdt.make.core.autoBuildTarget</key>
@@ -102,16 +102,16 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.make.core.makeNature</nature>
 		<nature>org.eclipse.cdt.make.core.ScannerConfigNature</nature>
+		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.core.cnature</nature>
 	</natures>
 	<linkedResources>
 		<link>
 			<name>[Source directory]</name>
 			<type>2</type>
-			<location>/home/playground/Desktop/cmakeVX/src</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src</location>
 		</link>
 		<link>
 			<name>[Subprojects]</name>
@@ -121,7 +121,7 @@
 		<link>
 			<name>[Subprojects]/vstab_demo</name>
 			<type>2</type>
-			<location>/home/playground/Desktop/cmakeVX/src</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src</location>
 		</link>
 		<link>
 			<name>[Targets]</name>
@@ -146,17 +146,17 @@
 		<link>
 			<name>[Targets]/[exe] vstab_demo/Source Files/main.cpp</name>
 			<type>1</type>
-			<location>/home/playground/Desktop/cmakeVX/src/main.cpp</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src/main.cpp</location>
 		</link>
 		<link>
 			<name>[Targets]/[exe] vstab_demo/Source Files/homography_smoother.cpp</name>
 			<type>1</type>
-			<location>/home/playground/Desktop/cmakeVX/src/homography_smoother.cpp</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src/homography_smoother.cpp</location>
 		</link>
 		<link>
 			<name>[Targets]/[exe] vstab_demo/Source Files/immediate_mode_stabilizer.cpp</name>
 			<type>1</type>
-			<location>/home/playground/Desktop/cmakeVX/src/immediate_mode_stabilizer.cpp</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src/immediate_mode_stabilizer.cpp</location>
 		</link>
 		<link>
 			<name>[Targets]/[exe] vstab_demo/Header Files</name>
@@ -166,12 +166,12 @@
 		<link>
 			<name>[Targets]/[exe] vstab_demo/Header Files/homography_smoother.hpp</name>
 			<type>1</type>
-			<location>/home/playground/Desktop/cmakeVX/src/homography_smoother.hpp</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src/homography_smoother.hpp</location>
 		</link>
 		<link>
 			<name>[Targets]/[exe] vstab_demo/Header Files/immediate_mode_stabilizer.hpp</name>
 			<type>1</type>
-			<location>/home/playground/Desktop/cmakeVX/src/immediate_mode_stabilizer.hpp</location>
+			<location>/home/ubuntu/cmakeVX_NsightProject/src/immediate_mode_stabilizer.hpp</location>
 		</link>
 		<link>
 			<name>[Targets]/[exe] vstab_demo/CMake Rules</name>

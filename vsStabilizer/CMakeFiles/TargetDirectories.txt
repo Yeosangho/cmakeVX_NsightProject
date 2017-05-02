@@ -1,1 +1,3 @@
-/home/playground/Desktop/cmakeVX/vsStabilizer/CMakeFiles/vstab_demo.dir
+/home/ubuntu/cmakeVX_NsightProject/vsStabilizer/CMakeFiles/edit_cache.dir
+/home/ubuntu/cmakeVX_NsightProject/vsStabilizer/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cmakeVX_NsightProject/vsStabilizer/CMakeFiles/vstab_demo.dir

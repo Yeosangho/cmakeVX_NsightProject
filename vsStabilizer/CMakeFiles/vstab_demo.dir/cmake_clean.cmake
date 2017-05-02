@@ -1,4 +1,4 @@
-FILE(REMOVE_RECURSE
+file(REMOVE_RECURSE
   "CMakeFiles/vstab_demo.dir/main.cpp.o"
   "CMakeFiles/vstab_demo.dir/homography_smoother.cpp.o"
   "CMakeFiles/vstab_demo.dir/immediate_mode_stabilizer.cpp.o"
@@ -7,6 +7,6 @@ FILE(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-FOREACH(lang CXX)
-  INCLUDE(CMakeFiles/vstab_demo.dir/cmake_clean_${lang}.cmake OPTIONAL)
-ENDFOREACH(lang)
+foreach(lang CXX)
+  include(CMakeFiles/vstab_demo.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
