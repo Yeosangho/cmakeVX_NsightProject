@@ -1,0 +1,22 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+PROJECT(vstab_demo)
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
+set (EXECUTABLE_OUTPUT_PATH "${PARENT_DIR}/vsStabilizer/bin")
+find_package(OpenCV REQUIRED core imgproc video highgui calib3d gpu)
+find_package(VisionWorks REQUIRED)
+find_package(VisionWorks-NVXIO)
+include_directories("${OpenCV_INCLUDE_DIRS}")
+include_directories("${VisionWorks_INCLUDE_DIRS}")
+include_directories("${VisionWorks-NVXIO_INCLUDE_DIRS}")
+add_executable( vstab_demo main.cpp
+  homography_smoother.cpp homography_smoother.hpp
+  immediate_mode_stabilizer.cpp immediate_mode_stabilizer.hpp
+  )
+target_link_libraries(vstab_demo
+  ${OpenCV_LIBS}
+  ${VisionWorks_LIBRARIES}
+  ${VisionWorks-NVXIO_LIBRARIES}
+  )
+
+
+
